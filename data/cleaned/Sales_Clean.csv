@@ -1,0 +1,1306 @@
+Order_ID,Revenue,Order_Date,Product,Region
+10291,7136.19,09 August 2004,Classic Cars,EMEA
+10304,10172.7,10 November 2004,Classic Cars,EMEA
+10105,7208,02 November 2003,Classic Cars,EMEA
+10129,4398.24,06 December 2003,Classic Cars,EMEA
+10155,4526.08,10 June 2003,Classic Cars,EMEA
+10178,3492.48,11 August 2003,Classic Cars,EMEA
+10316,4128.96,11 January 2004,Classic Cars,EMEA
+10325,3051.71,11 May 2004,Classic Cars,EMEA
+10350,1962.22,12 February 2004,Classic Cars,EMEA
+10114,4305.28,04 January 2003,Classic Cars,EMEA
+10175,5362.83,11 June 2003,Classic Cars,EMEA
+10291,3855.9,09 August 2004,Classic Cars,EMEA
+10122,7599.9,05 August 2003,Classic Cars,EMEA
+10181,5411.07,11 December 2003,Classic Cars,EMEA
+10203,3930.4,12 February 2003,Classic Cars,EMEA
+10238,5774.72,04 September 2004,Classic Cars,EMEA
+10253,3922.56,06 January 2004,Classic Cars,EMEA
+10266,9160.36,07 June 2004,Classic Cars,EMEA
+10300,5521.89,10 April 2003,Classic Cars,EMEA
+10320,6876.11,11 March 2004,Classic Cars,EMEA
+10363,2817.87,01 June 2005,Classic Cars,EMEA
+10375,3420,02 March 2005,Classic Cars,EMEA
+10389,2575.04,03 March 2005,Classic Cars,EMEA
+10105,8690.36,02 November 2003,Classic Cars,EMEA
+10176,7474.5,11 June 2003,Classic Cars,EMEA
+10208,8602.92,01 February 2004,Classic Cars,EMEA
+10220,7181.44,02 December 2004,Classic Cars,EMEA
+10247,10606.2,05 May 2004,Classic Cars,EMEA
+10293,8411.56,09 September 2004,Classic Cars,EMEA
+10325,2688,11 May 2004,Classic Cars,EMEA
+10348,2513.28,11 January 2004,Classic Cars,EMEA
+10176,8378.69,11 June 2003,Classic Cars,EMEA
+10208,3142.36,01 February 2004,Classic Cars,EMEA
+10220,4713.6,02 December 2004,Classic Cars,EMEA
+10247,4381.25,05 May 2004,Classic Cars,EMEA
+10293,4242.24,09 September 2004,Classic Cars,EMEA
+10348,4801.52,11 January 2004,Classic Cars,EMEA
+10358,2711.66,12 October 2004,Classic Cars,EMEA
+10122,3693.34,05 August 2003,Classic Cars,EMEA
+10170,5464.69,11 April 2003,Classic Cars,EMEA
+10181,2860.76,11 December 2003,Classic Cars,EMEA
+10203,2254.8,12 February 2003,Classic Cars,EMEA
+10238,3167.38,04 September 2004,Classic Cars,EMEA
+10253,2402.84,06 January 2004,Classic Cars,EMEA
+10266,2454.54,07 June 2004,Classic Cars,EMEA
+10300,3984.6,10 April 2003,Classic Cars,EMEA
+10320,4850.3,11 March 2004,Classic Cars,EMEA
+10363,3288.82,01 June 2005,Classic Cars,EMEA
+10389,1809.5,03 March 2005,Classic Cars,EMEA
+10105,4566.05,02 November 2003,Classic Cars,EMEA
+10176,7872.5,11 June 2003,Classic Cars,EMEA
+10208,3114.4,01 February 2004,Classic Cars,EMEA
+10220,5045.22,02 December 2004,Classic Cars,EMEA
+10247,4157.73,05 May 2004,Classic Cars,EMEA
+10293,8253,09 September 2004,Classic Cars,EMEA
+10325,2583.6,11 May 2004,Classic Cars,EMEA
+10122,2042.88,05 August 2003,Classic Cars,EMEA
+10181,1628,11 December 2003,Classic Cars,EMEA
+10203,3651.56,12 February 2003,Classic Cars,EMEA
+10238,1484.2,04 September 2004,Classic Cars,EMEA
+10253,2254.25,06 January 2004,Classic Cars,EMEA
+10266,2681.35,07 June 2004,Classic Cars,EMEA
+10300,1685.42,10 April 2003,Classic Cars,EMEA
+10320,2789.96,11 March 2004,Classic Cars,EMEA
+10363,2775.08,01 June 2005,Classic Cars,EMEA
+10377,1627.92,02 September 2005,Classic Cars,EMEA
+10389,2529.36,03 March 2005,Classic Cars,EMEA
+10122,2142,05 August 2003,Classic Cars,EMEA
+10170,4391.1,11 April 2003,Classic Cars,EMEA
+10181,4477.32,11 December 2003,Classic Cars,EMEA
+10203,5195.85,12 February 2003,Classic Cars,EMEA
+10239,1958.88,04 December 2004,Classic Cars,EMEA
+10253,4910.57,06 January 2004,Classic Cars,EMEA
+10266,4468.4,07 June 2004,Classic Cars,EMEA
+10300,2807.61,10 April 2003,Classic Cars,EMEA
+10363,4068.7,01 June 2005,Classic Cars,EMEA
+10377,5182,02 September 2005,Classic Cars,EMEA
+10389,5243.79,03 March 2005,Classic Cars,EMEA
+10122,5004.8,05 August 2003,Classic Cars,EMEA
+10136,3644.75,07 April 2003,Classic Cars,EMEA
+10181,5418.16,11 December 2003,Classic Cars,EMEA
+10253,3054.48,06 January 2004,Classic Cars,EMEA
+10266,2526.51,07 June 2004,Classic Cars,EMEA
+10301,5917.78,10 May 2003,Classic Cars,EMEA
+10356,4196.8,12 September 2004,Classic Cars,EMEA
+10377,5895.05,02 September 2005,Classic Cars,EMEA
+10137,4380.2,07 October 2003,Classic Cars,EMEA
+10181,5435.64,11 December 2003,Classic Cars,EMEA
+10253,3374.88,06 January 2004,Classic Cars,EMEA
+10266,5196.6,07 June 2004,Classic Cars,EMEA
+10301,3424.64,10 May 2003,Classic Cars,EMEA
+10378,1449.76,02 October 2005,Classic Cars,EMEA
+10122,3112.34,05 August 2003,Classic Cars,EMEA
+10170,1262.8,11 April 2003,Classic Cars,EMEA
+10181,1626.24,11 December 2003,Classic Cars,EMEA
+10203,3846.15,12 February 2003,Classic Cars,EMEA
+10239,3400.32,04 December 2004,Classic Cars,EMEA
+10253,1930.39,06 January 2004,Classic Cars,EMEA
+10266,2464.77,07 June 2004,Classic Cars,EMEA
+10300,3788.4,10 April 2003,Classic Cars,EMEA
+10363,3686.54,01 June 2005,Classic Cars,EMEA
+10377,2100.56,02 September 2005,Classic Cars,EMEA
+10389,3881.78,03 March 2005,Classic Cars,EMEA
+10122,4100.99,05 August 2003,Classic Cars,EMEA
+10136,5274.72,07 April 2003,Classic Cars,EMEA
+10181,3286.08,11 December 2003,Classic Cars,EMEA
+10253,4459.62,06 January 2004,Classic Cars,EMEA
+10266,6203.4,07 June 2004,Classic Cars,EMEA
+10301,7488.04,10 May 2003,Classic Cars,EMEA
+10356,1746.63,12 September 2004,Classic Cars,EMEA
+10366,4207.84,01 October 2005,Classic Cars,EMEA
+10377,4352.76,02 September 2005,Classic Cars,EMEA
+10141,5938.53,08 January 2003,Classic Cars,EMEA
+10176,3667.6,11 June 2003,Classic Cars,EMEA
+10246,6549.2,05 May 2004,Classic Cars,EMEA
+10358,2428,12 October 2004,Classic Cars,EMEA
+10412,6712.93,05 March 2005,Classic Cars,EMEA
+10137,4346.76,07 October 2003,Classic Cars,EMEA
+10181,3884.76,11 December 2003,Classic Cars,EMEA
+10253,5177.04,06 January 2004,Classic Cars,EMEA
+10266,2824.8,07 June 2004,Classic Cars,EMEA
+10301,3223.44,10 May 2003,Classic Cars,EMEA
+10366,6144.6,01 October 2005,Classic Cars,EMEA
+10379,5127.2,02 October 2005,Classic Cars,EMEA
+10114,8209.44,04 January 2003,Classic Cars,EMEA
+10122,3598.5,05 August 2003,Classic Cars,EMEA
+10136,8331.61,07 April 2003,Classic Cars,EMEA
+10141,4836.5,08 January 2003,Classic Cars,EMEA
+10175,4419.89,11 June 2003,Classic Cars,EMEA
+10181,6324.75,11 December 2003,Classic Cars,EMEA
+10203,8291.04,12 February 2003,Classic Cars,EMEA
+10239,7083.37,04 December 2004,Classic Cars,EMEA
+10246,7132.68,05 May 2004,Classic Cars,EMEA
+10253,6773.6,06 January 2004,Classic Cars,EMEA
+10266,4812.55,07 June 2004,Classic Cars,EMEA
+10301,4011.66,10 May 2003,Classic Cars,EMEA
+10358,2991.68,12 October 2004,Classic Cars,EMEA
+10366,6275.72,01 October 2005,Classic Cars,EMEA
+10377,7264.53,02 September 2005,Classic Cars,EMEA
+10412,11887.8,05 March 2005,Classic Cars,EMEA
+10122,1536.57,05 August 2003,Classic Cars,EMEA
+10181,2484.6,11 December 2003,Classic Cars,EMEA
+10203,2839.32,12 February 2003,Classic Cars,EMEA
+10238,2999.97,04 September 2004,Classic Cars,EMEA
+10300,3861.2,10 April 2003,Classic Cars,EMEA
+10363,2773.8,01 June 2005,Classic Cars,EMEA
+10378,2464,02 October 2005,Classic Cars,EMEA
+10122,2469.39,05 August 2003,Classic Cars,EMEA
+10181,3395.48,11 December 2003,Classic Cars,EMEA
+10203,5127.04,12 February 2003,Classic Cars,EMEA
+10238,6554.24,04 September 2004,Classic Cars,EMEA
+10300,3786.49,10 April 2003,Classic Cars,EMEA
+10320,3491,11 March 2004,Classic Cars,EMEA
+10355,3177.91,12 July 2004,Classic Cars,EMEA
+10363,4142.64,01 June 2005,Classic Cars,EMEA
+10378,4149.07,02 October 2005,Classic Cars,EMEA
+10137,5124.3,07 October 2003,Classic Cars,EMEA
+10181,5785.26,11 December 2003,Classic Cars,EMEA
+10253,4029.38,06 January 2004,Classic Cars,EMEA
+10266,5035.14,07 June 2004,Classic Cars,EMEA
+10301,6446.7,10 May 2003,Classic Cars,EMEA
+10379,2266.56,02 October 2005,Classic Cars,EMEA
+10176,5532.12,11 June 2003,Classic Cars,EMEA
+10220,8258,02 December 2004,Classic Cars,EMEA
+10247,6756,05 May 2004,Classic Cars,EMEA
+10358,2528.25,12 October 2004,Classic Cars,EMEA
+10122,3583.16,05 August 2003,Classic Cars,EMEA
+10180,5565.12,11 November 2003,Classic Cars,EMEA
+10238,6350.96,04 September 2004,Classic Cars,EMEA
+10355,4203.5,12 July 2004,Classic Cars,EMEA
+10363,1629.04,01 June 2005,Classic Cars,EMEA
+10378,3289.86,02 October 2005,Classic Cars,EMEA
+10173,2807.22,11 May 2003,Classic Cars,EMEA
+10227,2136.01,03 February 2004,Classic Cars,EMEA
+10279,1575.08,08 September 2004,Classic Cars,EMEA
+10302,1672.1,10 June 2003,Classic Cars,EMEA
+10279,2398.72,08 September 2004,Classic Cars,EMEA
+10301,1944.54,10 May 2003,Classic Cars,EMEA
+10141,1086.6,08 January 2003,Classic Cars,EMEA
+10176,1857.06,11 June 2003,Classic Cars,EMEA
+10220,1457.82,02 December 2004,Classic Cars,EMEA
+10246,2314.4,05 May 2004,Classic Cars,EMEA
+10358,2673.44,12 October 2004,Classic Cars,EMEA
+10412,1104.6,05 March 2005,Classic Cars,EMEA
+10137,1295.06,07 October 2003,Classic Cars,EMEA
+10181,1830.22,11 December 2003,Classic Cars,EMEA
+10266,1352.4,07 June 2004,Classic Cars,EMEA
+10301,1129.04,10 May 2003,Classic Cars,EMEA
+10379,3970.56,02 October 2005,Classic Cars,EMEA
+10227,4142.58,03 February 2004,Classic Cars,EMEA
+10279,3918.53,08 September 2004,Classic Cars,EMEA
+10302,5298.86,10 June 2003,Classic Cars,EMEA
+10114,721.44,04 January 2003,Classic Cars,EMEA
+10141,891.03,08 January 2003,Classic Cars,EMEA
+10175,1151.44,11 June 2003,Classic Cars,EMEA
+10246,1767.43,05 May 2004,Classic Cars,EMEA
+10358,2985.84,12 October 2004,Classic Cars,EMEA
+10412,1082.1,05 March 2005,Classic Cars,EMEA
+10173,2728.03,11 May 2003,Classic Cars,EMEA
+10227,4340.49,03 February 2004,Classic Cars,EMEA
+10279,5580.96,08 September 2004,Classic Cars,EMEA
+10302,5548.95,10 June 2003,Classic Cars,EMEA
+10122,1207.44,05 August 2003,Classic Cars,EMEA
+10181,1578.79,11 December 2003,Classic Cars,EMEA
+10203,777,12 February 2003,Classic Cars,EMEA
+10239,891.2,04 December 2004,Classic Cars,EMEA
+10253,1706.8,06 January 2004,Classic Cars,EMEA
+10266,1373.6,07 June 2004,Classic Cars,EMEA
+10301,1649.28,10 May 2003,Classic Cars,EMEA
+10355,1386.72,12 July 2004,Classic Cars,EMEA
+10378,5856.85,02 October 2005,Classic Cars,EMEA
+10227,3184.8,03 February 2004,Classic Cars,EMEA
+10279,2344.98,08 September 2004,Classic Cars,EMEA
+10302,3575.04,10 June 2003,Classic Cars,EMEA
+10122,1707.14,05 August 2003,Classic Cars,EMEA
+10181,1506.96,11 December 2003,Classic Cars,EMEA
+10203,2206.6,12 February 2003,Classic Cars,EMEA
+10238,2935.15,04 September 2004,Classic Cars,EMEA
+10253,1263.84,06 January 2004,Classic Cars,EMEA
+10266,2935.15,07 June 2004,Classic Cars,EMEA
+10300,1822.18,10 April 2003,Classic Cars,EMEA
+10320,1591.98,11 March 2004,Classic Cars,EMEA
+10355,2747.8,12 July 2004,Classic Cars,EMEA
+10363,2447.76,01 June 2005,Classic Cars,EMEA
+10378,1910.84,02 October 2005,Classic Cars,EMEA
+10279,6168,08 September 2004,Classic Cars,EMEA
+10301,2120.14,10 May 2003,Classic Cars,EMEA
+10122,5494.97,05 August 2003,Classic Cars,EMEA
+10170,3819.56,11 April 2003,Classic Cars,EMEA
+10181,3861.75,11 December 2003,Classic Cars,EMEA
+10203,6996.42,12 February 2003,Classic Cars,EMEA
+10239,4479.63,04 December 2004,Classic Cars,EMEA
+10253,5148,06 January 2004,Classic Cars,EMEA
+10266,2932.08,07 June 2004,Classic Cars,EMEA
+10301,7723.5,10 May 2003,Classic Cars,EMEA
+10355,5302.72,12 July 2004,Classic Cars,EMEA
+10363,2931.98,01 June 2005,Classic Cars,EMEA
+10378,1757.91,02 October 2005,Classic Cars,EMEA
+10141,3784.8,08 January 2003,Classic Cars,EMEA
+10176,2915.66,11 June 2003,Classic Cars,EMEA
+10220,5032.74,02 December 2004,Classic Cars,EMEA
+10246,6311.2,05 May 2004,Classic Cars,EMEA
+10325,5325.76,11 May 2004,Classic Cars,EMEA
+10412,4253.2,05 March 2005,Classic Cars,EMEA
+10122,2063.06,05 August 2003,Classic Cars,EMEA
+10180,1991.92,11 November 2003,Classic Cars,EMEA
+10238,2062.94,04 September 2004,Classic Cars,EMEA
+10355,2670.92,12 July 2004,Classic Cars,EMEA
+10363,5154.41,01 June 2005,Classic Cars,EMEA
+10378,4894.17,02 October 2005,Classic Cars,EMEA
+10114,4758.18,04 January 2003,Classic Cars,EMEA
+10175,3611.16,11 June 2003,Classic Cars,EMEA
+10291,3256.96,09 August 2004,Classic Cars,EMEA
+10304,4208,10 November 2004,Classic Cars,EMEA
+10348,2650.56,11 January 2004,Classic Cars,EMEA
+10358,3761.37,12 October 2004,Classic Cars,EMEA
+10206,9064.89,12 May 2003,Classic Cars,NA
+10228,6463.23,03 October 2004,Classic Cars,NA
+10245,6120.34,05 April 2004,Classic Cars,NA
+10322,6000.4,11 April 2004,Classic Cars,NA
+10357,5691.84,12 October 2004,Classic Cars,NA
+10411,4140.23,05 January 2005,Classic Cars,NA
+10143,5597.76,08 October 2003,Classic Cars,NA
+10209,5197.92,01 September 2004,Classic Cars,NA
+10248,2910.4,05 July 2004,Classic Cars,NA
+10295,3427.2,09 October 2004,Classic Cars,NA
+10400,9661.44,04 January 2005,Classic Cars,NA
+10414,2764.88,05 June 2005,Classic Cars,NA
+10207,4076.19,12 September 2003,Classic Cars,NA
+10229,6426.5,03 November 2004,Classic Cars,NA
+10245,4591.72,05 April 2004,Classic Cars,NA
+10322,2851.54,11 April 2004,Classic Cars,NA
+10357,5780.92,12 October 2004,Classic Cars,NA
+10411,4427.73,05 January 2005,Classic Cars,NA
+10135,8008.56,07 February 2003,Classic Cars,NA
+10147,9245.76,09 May 2003,Classic Cars,NA
+10159,8296.35,10 October 2003,Classic Cars,NA
+10276,9631,08 February 2004,Classic Cars,NA
+10127,11279.2,06 March 2003,Classic Cars,NA
+10142,8023.29,08 August 2003,Classic Cars,NA
+10413,8677.8,05 May 2005,Classic Cars,NA
+10127,7366.44,06 March 2003,Classic Cars,NA
+10142,4985.64,08 August 2003,Classic Cars,NA
+10324,1466.91,11 May 2004,Classic Cars,NA
+10413,8236.75,05 May 2005,Classic Cars,NA
+10135,6031.68,07 February 2003,Classic Cars,NA
+10147,3494.94,09 May 2003,Classic Cars,NA
+10160,5294.14,10 November 2003,Classic Cars,NA
+10276,5464.69,08 February 2004,Classic Cars,NA
+10376,3987.2,02 August 2005,Classic Cars,NA
+10127,8138.76,06 March 2003,Classic Cars,NA
+10142,9470.94,08 August 2003,Classic Cars,NA
+10349,4408.56,12 January 2004,Classic Cars,NA
+10413,3387.78,05 May 2005,Classic Cars,NA
+10135,1800.24,07 February 2003,Classic Cars,NA
+10147,1340.64,09 May 2003,Classic Cars,NA
+10159,1762.08,10 October 2003,Classic Cars,NA
+10276,3184.02,08 February 2004,Classic Cars,NA
+10135,2838.81,07 February 2003,Classic Cars,NA
+10147,3230.37,09 May 2003,Classic Cars,NA
+10160,5182,10 November 2003,Classic Cars,NA
+10321,2984.88,11 April 2004,Classic Cars,NA
+10109,4379.18,03 October 2003,Classic Cars,NA
+10171,4508,11 May 2003,Classic Cars,NA
+10204,6182.4,12 February 2003,Classic Cars,NA
+10278,4667.86,08 June 2004,Classic Cars,NA
+10321,5803.14,11 April 2004,Classic Cars,NA
+10365,2611.8,01 July 2005,Classic Cars,NA
+10390,3375.72,03 April 2005,Classic Cars,NA
+10172,4965.24,11 May 2003,Classic Cars,NA
+10204,4032,12 February 2003,Classic Cars,NA
+10278,2604.52,08 June 2004,Classic Cars,NA
+10321,4489.76,11 April 2004,Classic Cars,NA
+10367,2758.7,01 December 2005,Classic Cars,NA
+10135,3806.88,07 February 2003,Classic Cars,NA
+10147,2142.14,09 May 2003,Classic Cars,NA
+10160,3364.9,10 November 2003,Classic Cars,NA
+10278,2634.94,08 June 2004,Classic Cars,NA
+10321,2905.98,11 April 2004,Classic Cars,NA
+10109,4432.7,03 October 2003,Classic Cars,NA
+10171,4680.2,11 May 2003,Classic Cars,NA
+10204,6432.64,12 February 2003,Classic Cars,NA
+10278,3754.05,08 June 2004,Classic Cars,NA
+10321,3734,11 April 2004,Classic Cars,NA
+10390,1463.7,03 April 2005,Classic Cars,NA
+10115,7381.16,04 April 2003,Classic Cars,NA
+10127,7146.9,06 March 2003,Classic Cars,NA
+10207,7060.24,12 September 2003,Classic Cars,NA
+10219,8448.64,02 October 2004,Classic Cars,NA
+10292,4554.94,09 August 2004,Classic Cars,NA
+10324,7207.45,11 May 2004,Classic Cars,NA
+10349,6719.54,12 January 2004,Classic Cars,NA
+10109,3157.44,03 October 2003,Classic Cars,NA
+10172,6023.16,11 May 2003,Classic Cars,NA
+10204,4169.88,12 February 2003,Classic Cars,NA
+10278,4324.32,08 June 2004,Classic Cars,NA
+10321,2851.2,11 April 2004,Classic Cars,NA
+10109,8257,03 October 2003,Classic Cars,NA
+10127,3837.24,06 March 2003,Classic Cars,NA
+10160,3996.4,10 November 2003,Classic Cars,NA
+10171,5481.45,11 May 2003,Classic Cars,NA
+10207,3937.25,12 September 2003,Classic Cars,NA
+10229,4172.52,03 November 2004,Classic Cars,NA
+10278,6401.22,08 June 2004,Classic Cars,NA
+10292,2844.87,09 August 2004,Classic Cars,NA
+10321,5700.09,11 April 2004,Classic Cars,NA
+10324,3155.49,11 May 2004,Classic Cars,NA
+10349,7396.8,12 January 2004,Classic Cars,NA
+10135,3510,07 February 2003,Classic Cars,NA
+10147,3097.44,09 May 2003,Classic Cars,NA
+10159,1705.41,10 October 2003,Classic Cars,NA
+10276,2658.48,08 February 2004,Classic Cars,NA
+10319,3403.08,11 March 2004,Classic Cars,NA
+10390,5491.6,03 April 2005,Classic Cars,NA
+10135,5432.7,07 February 2003,Classic Cars,NA
+10147,4405.22,09 May 2003,Classic Cars,NA
+10159,3638,10 October 2003,Classic Cars,NA
+10276,3924.6,08 February 2004,Classic Cars,NA
+10390,7397,03 April 2005,Classic Cars,NA
+10109,6241.6,03 October 2003,Classic Cars,NA
+10172,5493.12,11 May 2003,Classic Cars,NA
+10204,5735.8,12 February 2003,Classic Cars,NA
+10278,4116.8,08 June 2004,Classic Cars,NA
+10321,4232.76,11 April 2004,Classic Cars,NA
+10367,4808.38,01 December 2005,Classic Cars,NA
+10127,3447,06 March 2003,Classic Cars,NA
+10142,3791.52,08 August 2003,Classic Cars,NA
+10207,6146.8,12 September 2003,Classic Cars,NA
+10292,7140.76,09 August 2004,Classic Cars,NA
+10324,5379.71,11 May 2004,Classic Cars,NA
+10349,4394.84,12 January 2004,Classic Cars,NA
+10413,6896.75,05 May 2005,Classic Cars,NA
+10135,4705.18,07 February 2003,Classic Cars,NA
+10146,4444.54,09 March 2003,Classic Cars,NA
+10159,4618.88,10 October 2003,Classic Cars,NA
+10276,5713.92,08 February 2004,Classic Cars,NA
+10319,7901.1,11 March 2004,Classic Cars,NA
+10390,6862.94,03 April 2005,Classic Cars,NA
+10182,3072.96,11 December 2003,Classic Cars,NA
+10204,3431.7,12 February 2003,Classic Cars,NA
+10267,2719.8,07 July 2004,Classic Cars,NA
+10367,3751,01 December 2005,Classic Cars,NA
+10172,2422.08,11 May 2003,Classic Cars,NA
+10182,3488.34,11 December 2003,Classic Cars,NA
+10204,1249.4,12 February 2003,Classic Cars,NA
+10267,3204,07 July 2004,Classic Cars,NA
+10321,2116.5,11 April 2004,Classic Cars,NA
+10367,1267.77,01 December 2005,Classic Cars,NA
+10115,3259.92,04 April 2003,Classic Cars,NA
+10127,1213.8,06 March 2003,Classic Cars,NA
+10207,2294.18,12 September 2003,Classic Cars,NA
+10292,2150,09 August 2004,Classic Cars,NA
+10324,1729,11 May 2004,Classic Cars,NA
+10349,2275.2,12 January 2004,Classic Cars,NA
+10172,1453.84,11 May 2003,Classic Cars,NA
+10204,2241.45,12 February 2003,Classic Cars,NA
+10278,1584.8,08 June 2004,Classic Cars,NA
+10321,2028.48,11 April 2004,Classic Cars,NA
+10367,1463,01 December 2005,Classic Cars,NA
+10172,1639.22,11 May 2003,Classic Cars,NA
+10182,2649.6,11 December 2003,Classic Cars,NA
+10204,4527.04,12 February 2003,Classic Cars,NA
+10267,3315.12,07 July 2004,Classic Cars,NA
+10321,2181,11 April 2004,Classic Cars,NA
+10127,1489.41,06 March 2003,Classic Cars,NA
+10207,1247.4,12 September 2003,Classic Cars,NA
+10219,846.51,02 October 2004,Classic Cars,NA
+10229,1085.04,03 November 2004,Classic Cars,NA
+10292,1172.34,09 August 2004,Classic Cars,NA
+10324,3338.1,11 May 2004,Classic Cars,NA
+10349,1336.68,12 January 2004,Classic Cars,NA
+10182,2395.8,11 December 2003,Classic Cars,NA
+10204,4242,12 February 2003,Classic Cars,NA
+10267,4645.72,07 July 2004,Classic Cars,NA
+10109,930.9,03 October 2003,Classic Cars,NA
+10135,717.4,07 February 2003,Classic Cars,NA
+10147,1066.75,09 May 2003,Classic Cars,NA
+10160,1554,10 November 2003,Classic Cars,NA
+10171,1277.64,11 May 2003,Classic Cars,NA
+10278,1205.59,08 June 2004,Classic Cars,NA
+10321,1229.51,11 April 2004,Classic Cars,NA
+10367,5018.4,01 December 2005,Classic Cars,NA
+10390,4894.73,03 April 2005,Classic Cars,NA
+10172,1951.92,11 May 2003,Classic Cars,NA
+10182,3107.61,11 December 2003,Classic Cars,NA
+10204,3184.8,12 February 2003,Classic Cars,NA
+10267,4256.56,07 July 2004,Classic Cars,NA
+10321,3305.25,11 April 2004,Classic Cars,NA
+10135,1785.51,07 February 2003,Classic Cars,NA
+10147,2057.4,09 May 2003,Classic Cars,NA
+10159,3490,10 October 2003,Classic Cars,NA
+10276,1224.6,08 February 2004,Classic Cars,NA
+10390,2430.64,03 April 2005,Classic Cars,NA
+10172,2167.22,11 May 2003,Classic Cars,NA
+10182,6244.07,11 December 2003,Classic Cars,NA
+10204,4368.96,12 February 2003,Classic Cars,NA
+10267,5110.98,07 July 2004,Classic Cars,NA
+10321,1888.95,11 April 2004,Classic Cars,NA
+10135,6336.07,07 February 2003,Classic Cars,NA
+10147,2906.97,09 May 2003,Classic Cars,NA
+10160,4767.7,10 November 2003,Classic Cars,NA
+10278,3159.75,08 June 2004,Classic Cars,NA
+10321,4052.88,11 April 2004,Classic Cars,NA
+10390,6763.05,03 April 2005,Classic Cars,NA
+10115,5568.64,04 April 2003,Classic Cars,NA
+10127,1939.8,06 March 2003,Classic Cars,NA
+10207,2980.6,12 September 2003,Classic Cars,NA
+10292,3832.38,09 August 2004,Classic Cars,NA
+10349,3182.97,12 January 2004,Classic Cars,NA
+10135,2008.13,07 February 2003,Classic Cars,NA
+10147,2004.77,09 May 2003,Classic Cars,NA
+10159,1543.3,10 October 2003,Classic Cars,NA
+10276,3608.64,08 February 2004,Classic Cars,NA
+10319,3684.67,11 March 2004,Classic Cars,NA
+10390,2472.6,03 April 2005,Classic Cars,NA
+10206,3871.89,12 May 2003,Classic Cars,NA
+10229,5614,03 November 2004,Classic Cars,NA
+10245,4628.8,05 April 2004,Classic Cars,NA
+10324,4248.3,11 May 2004,Classic Cars,NA
+10411,3576.8,05 January 2005,Classic Cars,NA
+10174,8014.82,11 June 2003,Classic Cars,APAC
+10391,2416.56,03 September 2005,Classic Cars,APAC
+10217,7020.48,02 April 2004,Classic Cars,APAC
+10391,1735.3,03 September 2005,Classic Cars,APAC
+10108,5265.15,03 March 2003,Classic Cars,Japan
+10169,5019.9,11 April 2003,Classic Cars,APAC
+10108,6130.35,03 March 2003,Classic Cars,Japan
+10108,3485.82,03 March 2003,Classic Cars,Japan
+10169,2298.24,11 April 2003,Classic Cars,APAC
+10108,3731.04,03 March 2003,Classic Cars,Japan
+10277,3127.88,08 April 2004,Classic Cars,Japan
+10148,2702.04,09 November 2003,Classic Cars,APAC
+10148,5848.68,09 November 2003,Classic Cars,APAC
+10288,2936.8,09 January 2004,Classic Cars,APAC
+10108,3130.82,03 March 2003,Classic Cars,Japan
+10148,4232,09 November 2003,Classic Cars,APAC
+10148,3528.36,09 November 2003,Classic Cars,APAC
+10148,5418.88,09 November 2003,Classic Cars,APAC
+10108,1777.1,03 March 2003,Classic Cars,Japan
+10169,2264.32,11 April 2003,Classic Cars,APAC
+10265,3907.8,07 February 2004,Classic Cars,APAC
+10108,4049.56,03 March 2003,Classic Cars,Japan
+10169,4444.92,11 April 2003,Classic Cars,APAC
+10265,8427.02,07 February 2004,Classic Cars,APAC
+10148,3639.44,09 November 2003,Classic Cars,APAC
+10108,5565.12,03 March 2003,Classic Cars,Japan
+10169,4910.4,11 April 2003,Classic Cars,APAC
+10148,2356.25,09 November 2003,Classic Cars,APAC
+10288,1688.43,09 January 2004,Classic Cars,APAC
+10148,1506.5,09 November 2003,Classic Cars,APAC
+10288,2381.04,09 January 2004,Classic Cars,APAC
+10148,2671.95,09 November 2003,Classic Cars,APAC
+10288,2616,09 January 2004,Classic Cars,APAC
+10148,1545.6,09 November 2003,Classic Cars,APAC
+10288,2830.45,09 January 2004,Classic Cars,APAC
+10148,4392.12,09 November 2003,Classic Cars,APAC
+10288,6539.04,09 January 2004,Classic Cars,APAC
+10148,2282.22,09 November 2003,Classic Cars,APAC
+10288,2328.66,09 January 2004,Classic Cars,APAC
+10108,1892.1,03 March 2003,Classic Cars,Japan
+10169,1707.14,11 April 2003,Classic Cars,APAC
+10148,3469.5,09 November 2003,Classic Cars,APAC
+10288,4873.26,09 January 2004,Classic Cars,APAC
+10108,5448.8,03 March 2003,Classic Cars,Japan
+10108,2130.01,03 March 2003,Classic Cars,Japan
+10169,2269.92,11 April 2003,Classic Cars,APAC
+10217,2728,02 April 2004,Classic Cars,APAC
+10210,3009.09,01 December 2004,Motorcycles,Japan
+10374,5288.01,02 February 2005,Motorcycles,APAC
+10210,6123.4,01 December 2004,Motorcycles,Japan
+10374,3834.38,02 February 2005,Motorcycles,APAC
+10174,6817.22,11 June 2003,Trucks and Buses,APAC
+10391,2464.8,03 September 2005,Trucks and Buses,APAC
+10169,4639.25,11 April 2003,Motorcycles,APAC
+10174,4480.32,11 June 2003,Trucks and Buses,APAC
+10391,2467.9,03 September 2005,Trucks and Buses,APAC
+10391,5548.9,03 September 2005,Vintage Cars,APAC
+10391,4998,03 September 2005,Vintage Cars,APAC
+10210,5719.5,01 December 2004,Planes,Japan
+10288,5875.2,09 January 2004,Vintage Cars,APAC
+10288,1729,09 January 2004,Vintage Cars,APAC
+10288,3822.92,09 January 2004,Vintage Cars,APAC
+10217,2148.3,02 April 2004,Trucks and Buses,APAC
+10391,1694,03 September 2005,Trucks and Buses,APAC
+10210,3844,01 December 2004,Planes,Japan
+10374,2909.34,02 February 2005,Planes,APAC
+10210,1986.8,01 December 2004,Motorcycles,Japan
+10374,1172.6,02 February 2005,Motorcycles,APAC
+10174,5592.22,11 June 2003,Vintage Cars,APAC
+10391,1448,03 September 2005,Vintage Cars,APAC
+10108,2914.11,03 March 2003,Motorcycles,Japan
+10169,2598.82,11 April 2003,Motorcycles,APAC
+10415,6209.25,05 September 2005,Vintage Cars,APAC
+10148,3598.22,09 November 2003,Vintage Cars,APAC
+10288,2834.65,09 January 2004,Vintage Cars,APAC
+10217,4509.08,02 April 2004,Trucks and Buses,APAC
+10174,2194.22,11 June 2003,Vintage Cars,APAC
+10374,4197.1,02 February 2005,Motorcycles,APAC
+10210,2658.96,01 December 2004,Planes,Japan
+10374,4328.6,02 February 2005,Planes,APAC
+10288,1106.93,09 January 2004,Vintage Cars,APAC
+10391,8344.71,03 September 2005,Vintage Cars,APAC
+10210,1851,01 December 2004,Motorcycles,Japan
+10391,4042.08,03 September 2005,Vintage Cars,APAC
+10217,3148.88,02 April 2004,Trucks and Buses,APAC
+10108,2060.45,03 March 2003,Motorcycles,Japan
+10169,2816.18,11 April 2003,Motorcycles,APAC
+10415,1424.22,05 September 2005,Planes,APAC
+10415,1254.6,05 September 2005,Vintage Cars,APAC
+10210,2018.4,01 December 2004,Planes,Japan
+10288,1340.46,09 January 2004,Vintage Cars,APAC
+10210,2840,01 December 2004,Planes,Japan
+10217,2244.9,02 April 2004,Trucks and Buses,APAC
+10210,3675.86,01 December 2004,Motorcycles,Japan
+10387,4175.6,03 February 2005,Motorcycles,Japan
+10108,1173.15,03 March 2003,Motorcycles,Japan
+10169,1035.58,11 April 2003,Motorcycles,APAC
+10217,2419.95,02 April 2004,Trucks and Buses,APAC
+10210,2307.24,01 December 2004,Vintage Cars,Japan
+10108,3669.78,03 March 2003,Motorcycles,Japan
+10169,3920.88,11 April 2003,Motorcycles,APAC
+10210,1763.86,01 December 2004,Vintage Cars,Japan
+10108,2821.66,03 March 2003,Motorcycles,Japan
+10169,3866.4,11 April 2003,Motorcycles,APAC
+10210,1649.55,01 December 2004,Planes,Japan
+10415,3070.4,05 September 2005,Ships,APAC
+10210,2592.72,01 December 2004,Planes,Japan
+10210,2818,01 December 2004,Planes,Japan
+10210,2678.4,01 December 2004,Planes,Japan
+10210,2953.86,01 December 2004,Planes,Japan
+10415,2419.62,05 September 2005,Planes,APAC
+10206,4056.36,12 May 2003,Trucks and Buses,NA
+10229,3451,03 November 2004,Trucks and Buses,NA
+10245,5920.4,05 April 2004,Trucks and Buses,NA
+10322,4784.13,11 April 2004,Trucks and Buses,NA
+10357,5960.36,12 October 2004,Trucks and Buses,NA
+10411,6232,05 January 2005,Trucks and Buses,NA
+10115,5723.78,04 April 2003,Trucks and Buses,NA
+10127,2559.6,06 March 2003,Trucks and Buses,NA
+10207,3384.36,12 September 2003,Trucks and Buses,NA
+10219,4891.68,02 October 2004,Trucks and Buses,NA
+10229,4521.96,03 November 2004,Trucks and Buses,NA
+10292,2214.87,09 August 2004,Trucks and Buses,NA
+10324,1517.88,11 May 2004,Trucks and Buses,NA
+10349,5232.96,12 January 2004,Trucks and Buses,NA
+10206,3966.78,12 May 2003,Trucks and Buses,NA
+10228,3360,03 October 2004,Trucks and Buses,NA
+10245,3451,05 April 2004,Trucks and Buses,NA
+10322,2251.04,11 April 2004,Trucks and Buses,NA
+10357,3822,12 October 2004,Trucks and Buses,NA
+10411,3213,05 January 2005,Trucks and Buses,NA
+10143,5248,08 October 2003,Planes,NA
+10250,8160.3,05 November 2004,Planes,NA
+10400,6433.82,04 January 2005,Planes,NA
+10127,6295.95,06 March 2003,Trucks and Buses,NA
+10207,5752.54,12 September 2003,Trucks and Buses,NA
+10229,3765.32,03 November 2004,Trucks and Buses,NA
+10292,4528.86,09 August 2004,Trucks and Buses,NA
+10324,1236.84,11 May 2004,Trucks and Buses,NA
+10349,5223.48,12 January 2004,Trucks and Buses,NA
+10207,2585.93,12 September 2003,Trucks and Buses,NA
+10229,1667.4,03 November 2004,Trucks and Buses,NA
+10322,2142.35,11 April 2004,Trucks and Buses,NA
+10357,2541.59,12 October 2004,Trucks and Buses,NA
+10235,1824.72,04 February 2004,Planes,NA
+10250,2668.68,05 November 2004,Planes,NA
+10318,3116.43,11 February 2004,Planes,NA
+10353,3515.67,12 April 2004,Planes,NA
+10401,3193.26,04 March 2005,Planes,NA
+10143,3442.64,08 October 2003,Ships,NA
+10209,2817.92,01 September 2004,Ships,NA
+10248,1553.58,05 July 2004,Ships,NA
+10400,2245.2,04 January 2005,Ships,NA
+10414,3255.12,05 June 2005,Ships,NA
+10142,2151.82,08 August 2003,Trains,NA
+10248,5082.42,05 July 2004,Trains,NA
+10414,5808.48,05 June 2005,Trains,NA
+10207,6658.02,12 September 2003,Trucks and Buses,NA
+10229,4716.23,03 November 2004,Trucks and Buses,NA
+10245,2390.22,05 April 2004,Trucks and Buses,NA
+10357,3559.64,12 October 2004,Trucks and Buses,NA
+10411,5235.72,05 January 2005,Trucks and Buses,NA
+10235,2214.67,04 February 2004,Planes,NA
+10250,2747.53,05 November 2004,Planes,NA
+10353,2008.44,12 April 2004,Planes,NA
+10401,3659.02,04 March 2005,Planes,NA
+10142,3366,08 August 2003,Ships,NA
+10248,6960.48,05 July 2004,Ships,NA
+10414,3335.23,05 June 2005,Ships,NA
+10207,6819.04,12 September 2003,Trucks and Buses,NA
+10229,5704.32,03 November 2004,Trucks and Buses,NA
+10324,3820.44,11 May 2004,Trucks and Buses,NA
+10143,1646.19,08 October 2003,Planes,NA
+10209,3535.03,01 September 2004,Planes,NA
+10249,1356.4,05 August 2004,Planes,NA
+10400,1479.84,04 January 2005,Planes,NA
+10143,1853.32,08 October 2003,Planes,NA
+10235,1981.65,04 February 2004,Planes,NA
+10250,3002.4,05 November 2004,Planes,NA
+10401,3843.2,04 March 2005,Planes,NA
+10235,3245.6,04 February 2004,Planes,NA
+10250,2760.94,05 November 2004,Planes,NA
+10317,2916.2,11 February 2004,Planes,NA
+10353,3146.5,12 April 2004,Planes,NA
+10401,4219.28,04 March 2005,Planes,NA
+10207,3964.1,12 September 2003,Trucks and Buses,NA
+10229,2793,03 November 2004,Trucks and Buses,NA
+10245,4133.64,05 April 2004,Trucks and Buses,NA
+10324,1963.6,11 May 2004,Trucks and Buses,NA
+10411,2904.72,05 January 2005,Trucks and Buses,NA
+10127,2337.75,06 March 2003,Trucks and Buses,NA
+10207,1621.62,12 September 2003,Trucks and Buses,NA
+10219,1931.65,02 October 2004,Trucks and Buses,NA
+10229,1244.53,03 November 2004,Trucks and Buses,NA
+10292,2326.5,09 August 2004,Trucks and Buses,NA
+10349,1535.49,12 January 2004,Trucks and Buses,NA
+10127,2054.36,06 March 2003,Trains,NA
+10142,3131.94,08 August 2003,Trains,NA
+10207,2544.75,12 September 2003,Trains,NA
+10292,2099.63,09 August 2004,Trains,NA
+10413,1193.04,05 May 2005,Trains,NA
+10206,2117.52,12 May 2003,Trucks and Buses,NA
+10229,2191.2,03 November 2004,Trucks and Buses,NA
+10245,3043.04,05 April 2004,Trucks and Buses,NA
+10324,8209.44,11 May 2004,Trucks and Buses,NA
+10411,1867.32,05 January 2005,Trucks and Buses,NA
+10115,2843.91,04 April 2003,Trucks and Buses,NA
+10127,6176.42,06 March 2003,Trucks and Buses,NA
+10207,2657.76,12 September 2003,Trucks and Buses,NA
+10292,4983.14,09 August 2004,Trucks and Buses,NA
+10127,3179.52,06 March 2003,Trains,NA
+10142,2091.18,08 August 2003,Trains,NA
+10292,1927.45,09 August 2004,Trains,NA
+10413,3256.35,05 May 2005,Trains,NA
+10142,2624,08 August 2003,Ships,NA
+10248,2568.24,05 July 2004,Ships,NA
+10295,1958.84,09 October 2004,Ships,NA
+10414,2639.58,05 June 2005,Ships,NA
+10143,3945.96,08 October 2003,Planes,NA
+10199,3989.76,12 January 2003,Planes,NA
+10235,2580.25,04 February 2004,Planes,NA
+10250,2831.54,05 November 2004,Planes,NA
+10353,5043.87,12 April 2004,Planes,NA
+10388,10066.6,03 March 2005,Planes,NA
+10401,1135.31,04 March 2005,Planes,NA
+10142,3612.43,08 August 2003,Ships,NA
+10248,4157.2,05 July 2004,Ships,NA
+10414,3533.62,05 June 2005,Ships,NA
+10143,2612.48,08 October 2003,Ships,NA
+10209,2927.43,01 September 2004,Ships,NA
+10249,3838,05 August 2004,Ships,NA
+10352,2352.67,12 March 2004,Ships,NA
+10400,4038.8,04 January 2005,Ships,NA
+10143,2152.02,08 October 2003,Planes,NA
+10235,3372.5,04 February 2004,Planes,NA
+10250,3909.15,05 November 2004,Planes,NA
+10352,4935.28,12 March 2004,Planes,NA
+10401,7543.75,04 March 2005,Planes,NA
+10143,2643.99,08 October 2003,Ships,NA
+10154,2315.88,10 February 2003,Ships,NA
+10248,2428.48,05 July 2004,Ships,NA
+10295,2576.2,09 October 2004,Ships,NA
+10414,2352.59,05 June 2005,Ships,NA
+10235,2402.75,04 February 2004,Planes,NA
+10250,6055.72,05 November 2004,Planes,NA
+10318,7119,11 February 2004,Planes,NA
+10353,3302.4,12 April 2004,Planes,NA
+10388,7154.5,03 March 2005,Planes,NA
+10401,2018.31,04 March 2005,Planes,NA
+10143,2688,08 October 2003,Planes,NA
+10199,3131.2,12 January 2003,Planes,NA
+10235,2944,04 February 2004,Planes,NA
+10250,2956.8,05 November 2004,Planes,NA
+10353,3523.85,12 April 2004,Planes,NA
+10401,7084,04 March 2005,Planes,NA
+10142,2334.99,08 August 2003,Ships,NA
+10248,3245.4,05 July 2004,Ships,NA
+10295,3473.78,09 October 2004,Ships,NA
+10414,3029.04,05 June 2005,Ships,NA
+10142,3245.58,08 August 2003,Ships,NA
+10248,3162.95,05 July 2004,Ships,NA
+10294,4692.6,09 October 2004,Ships,NA
+10414,2439.99,05 June 2005,Ships,NA
+10143,2919.58,08 October 2003,Planes,NA
+10235,2466.7,04 February 2004,Planes,NA
+10250,2363.22,05 November 2004,Planes,NA
+10352,1661.22,12 March 2004,Planes,NA
+10401,2031.4,04 March 2005,Planes,NA
+10143,1874.05,08 October 2003,Planes,NA
+10209,2145.12,01 September 2004,Planes,NA
+10249,1843.52,05 August 2004,Planes,NA
+10352,2579.36,12 March 2004,Planes,NA
+10400,1122.4,04 January 2005,Planes,NA
+10142,1724.97,08 August 2003,Ships,NA
+10248,1506.96,05 July 2004,Ships,NA
+10414,3079.44,05 June 2005,Ships,NA
+10159,5205.27,10 October 2003,Motorcycles,NA
+10201,2168.54,12 January 2003,Motorcycles,NA
+10237,2333.12,04 May 2004,Motorcycles,NA
+10318,4358.04,11 February 2004,Motorcycles,NA
+10388,3207.12,03 March 2005,Motorcycles,NA
+10159,5016.83,10 October 2003,Motorcycles,NA
+10201,3025.92,12 January 2003,Motorcycles,NA
+10236,2852.08,04 March 2004,Motorcycles,NA
+10318,5566.5,11 February 2004,Motorcycles,NA
+10388,2225.5,03 March 2005,Motorcycles,NA
+10159,4132.7,10 October 2003,Motorcycles,NA
+10201,8065.89,12 January 2003,Motorcycles,NA
+10237,7023.9,04 May 2004,Motorcycles,NA
+10318,7667.14,11 February 2004,Motorcycles,NA
+10362,3664.1,01 May 2005,Motorcycles,NA
+10388,1822.17,03 March 2005,Motorcycles,NA
+10159,6238.84,10 October 2003,Motorcycles,NA
+10201,4029,12 January 2003,Motorcycles,NA
+10237,4193.28,04 May 2004,Motorcycles,NA
+10276,5181.5,08 February 2004,Motorcycles,NA
+10319,4111.8,11 March 2004,Motorcycles,NA
+10362,3877.06,01 May 2005,Motorcycles,NA
+10388,5951.44,03 March 2005,Motorcycles,NA
+10159,2162.16,10 October 2003,Motorcycles,NA
+10201,1944.3,12 January 2003,Motorcycles,NA
+10236,1281.56,04 March 2004,Motorcycles,NA
+10318,2213.4,11 February 2004,Motorcycles,NA
+10362,1142.41,01 May 2005,Motorcycles,NA
+10135,2266.2,07 February 2003,Motorcycles,NA
+10146,3155.58,09 March 2003,Motorcycles,NA
+10159,1357.86,10 October 2003,Motorcycles,NA
+10237,1357.72,04 May 2004,Motorcycles,NA
+10276,1661.88,08 February 2004,Motorcycles,NA
+10319,2598.64,11 March 2004,Motorcycles,NA
+10390,5079.96,03 April 2005,Motorcycles,NA
+10159,5355.68,10 October 2003,Motorcycles,NA
+10201,4351.23,12 January 2003,Motorcycles,NA
+10237,2299,04 May 2004,Motorcycles,NA
+10318,6437.28,11 February 2004,Motorcycles,NA
+10362,4846,01 May 2005,Motorcycles,NA
+10201,1847,12 January 2003,Motorcycles,NA
+10236,3153.6,04 March 2004,Motorcycles,NA
+10250,2803.2,05 November 2004,Motorcycles,NA
+10318,2257.58,11 February 2004,Motorcycles,NA
+10135,1787.56,07 February 2003,Motorcycles,NA
+10159,2169.18,10 October 2003,Motorcycles,NA
+10237,2070.9,04 May 2004,Motorcycles,NA
+10276,3472.54,08 February 2004,Motorcycles,NA
+10319,2533.63,11 March 2004,Motorcycles,NA
+10390,2279.55,03 April 2005,Motorcycles,NA
+10235,4177.49,04 February 2004,Motorcycles,NA
+10250,3282.28,05 November 2004,Motorcycles,NA
+10318,5305.36,11 February 2004,Motorcycles,NA
+10353,3733.82,12 April 2004,Motorcycles,NA
+10401,4992.61,04 March 2005,Motorcycles,NA
+10135,1327.59,07 February 2003,Motorcycles,NA
+10159,1239,10 October 2003,Motorcycles,NA
+10237,1045.98,04 May 2004,Motorcycles,NA
+10276,988.47,08 February 2004,Motorcycles,NA
+10319,1108.38,11 March 2004,Motorcycles,NA
+10390,1826.96,03 April 2005,Motorcycles,NA
+10135,2694,07 February 2003,Motorcycles,NA
+10159,2347.15,10 October 2003,Motorcycles,NA
+10237,3113.64,04 May 2004,Motorcycles,NA
+10276,4304.64,08 February 2004,Motorcycles,NA
+10319,2626.8,11 March 2004,Motorcycles,NA
+10365,3425.18,01 July 2005,Motorcycles,NA
+10390,2204.1,03 April 2005,Motorcycles,NA
+10135,4224,07 February 2003,Motorcycles,NA
+10159,2219.6,10 October 2003,Motorcycles,NA
+10237,1366.8,04 May 2004,Motorcycles,NA
+10276,1486.38,08 February 2004,Motorcycles,NA
+10319,3478.05,11 March 2004,Motorcycles,NA
+10365,4984.32,01 July 2005,Motorcycles,NA
+10390,3491.18,03 April 2005,Motorcycles,NA
+10102,4808.31,01 October 2003,Vintage Cars,NA
+10149,5907.5,09 December 2003,Vintage Cars,NA
+10182,2183.25,11 December 2003,Vintage Cars,NA
+10322,3710.9,11 April 2004,Vintage Cars,NA
+10102,2055.74,01 October 2003,Vintage Cars,NA
+10149,1746.6,09 December 2003,Vintage Cars,NA
+10182,1742.4,11 December 2003,Vintage Cars,NA
+10322,2364.88,11 April 2004,Vintage Cars,NA
+10100,5151,01 June 2003,Vintage Cars,NA
+10149,5375.4,09 December 2003,Vintage Cars,NA
+10182,7554.8,11 December 2003,Vintage Cars,NA
+10204,5890.5,12 February 2003,Vintage Cars,NA
+10367,4703.81,01 December 2005,Vintage Cars,NA
+10100,3390,01 June 2003,Vintage Cars,NA
+10149,1496.64,09 December 2003,Vintage Cars,NA
+10182,2323.7,11 December 2003,Vintage Cars,NA
+10204,1643.12,12 February 2003,Vintage Cars,NA
+10367,8884.8,01 December 2005,Vintage Cars,NA
+10149,4950.33,09 December 2003,Vintage Cars,NA
+10182,2212,11 December 2003,Vintage Cars,NA
+10204,3206.32,12 February 2003,Vintage Cars,NA
+10322,12536.5,11 April 2004,Vintage Cars,NA
+10367,4196.07,01 December 2005,Vintage Cars,NA
+10390,3068.69,03 April 2005,Vintage Cars,NA
+10149,4230.62,09 December 2003,Vintage Cars,NA
+10182,3047.73,11 December 2003,Vintage Cars,NA
+10322,5797.44,11 April 2004,Vintage Cars,NA
+10367,3033.28,01 December 2005,Vintage Cars,NA
+10390,2030.86,03 April 2005,Vintage Cars,NA
+10206,3336.29,12 May 2003,Vintage Cars,NA
+10228,2504.4,03 October 2004,Vintage Cars,NA
+10322,3524.73,11 April 2004,Vintage Cars,NA
+10357,3572.33,12 October 2004,Vintage Cars,NA
+10206,1888.88,12 May 2003,Vintage Cars,NA
+10228,2866.95,03 October 2004,Vintage Cars,NA
+10322,1224.67,11 April 2004,Vintage Cars,NA
+10357,3458.42,12 October 2004,Vintage Cars,NA
+10206,3581.4,12 May 2003,Vintage Cars,NA
+10228,3181.53,03 October 2004,Vintage Cars,NA
+10322,2257.92,11 April 2004,Vintage Cars,NA
+10357,5160.76,12 October 2004,Vintage Cars,NA
+10142,6034.33,08 August 2003,Vintage Cars,NA
+10248,3802.56,05 July 2004,Vintage Cars,NA
+10414,4872.03,05 June 2005,Vintage Cars,NA
+10149,3958.5,09 December 2003,Vintage Cars,NA
+10182,2848.23,11 December 2003,Vintage Cars,NA
+10206,2444.4,12 May 2003,Vintage Cars,NA
+10290,2501.98,09 July 2004,Vintage Cars,NA
+10357,2604.25,12 October 2004,Vintage Cars,NA
+10143,3455.76,08 October 2003,Vintage Cars,NA
+10209,2498.6,01 September 2004,Vintage Cars,NA
+10249,5600.5,05 August 2004,Vintage Cars,NA
+10400,7307.42,04 January 2005,Vintage Cars,NA
+10100,1903.22,01 June 2003,Vintage Cars,NA
+10182,3942.72,11 December 2003,Vintage Cars,NA
+10204,2482.11,12 February 2003,Vintage Cars,NA
+10367,2696.96,01 December 2005,Vintage Cars,NA
+10142,1685.28,08 August 2003,Vintage Cars,NA
+10248,3170.16,05 July 2004,Vintage Cars,NA
+10414,1207.68,05 June 2005,Vintage Cars,NA
+10206,1119.93,12 May 2003,Vintage Cars,NA
+10229,1569.75,03 November 2004,Vintage Cars,NA
+10245,2694.15,05 April 2004,Vintage Cars,NA
+10324,6832.02,11 May 2004,Vintage Cars,NA
+10411,2095.45,05 January 2005,Vintage Cars,NA
+10149,1194.84,09 December 2003,Vintage Cars,NA
+10182,1436.76,11 December 2003,Vintage Cars,NA
+10322,2624,11 April 2004,Vintage Cars,NA
+10367,834.67,01 December 2005,Vintage Cars,NA
+10149,2414.72,09 December 2003,Vintage Cars,NA
+10182,1138.94,11 December 2003,Vintage Cars,NA
+10322,3500.1,11 April 2004,Vintage Cars,NA
+10367,856.52,01 December 2005,Vintage Cars,NA
+10142,4814.25,08 August 2003,Vintage Cars,NA
+10154,2826.27,10 February 2003,Vintage Cars,NA
+10248,3053.7,05 July 2004,Vintage Cars,NA
+10295,3908.62,09 October 2004,Vintage Cars,NA
+10414,6107.4,05 June 2005,Vintage Cars,NA
+10143,2560.47,08 October 2003,Vintage Cars,NA
+10209,2793.24,01 September 2004,Vintage Cars,NA
+10249,1742.5,05 August 2004,Vintage Cars,NA
+10400,2173.6,04 January 2005,Vintage Cars,NA
+10143,1851.73,08 October 2003,Vintage Cars,NA
+10209,1974.06,01 September 2004,Vintage Cars,NA
+10248,1755.13,05 July 2004,Vintage Cars,NA
+10400,3064.32,04 January 2005,Vintage Cars,NA
+10414,3891.81,05 June 2005,Vintage Cars,NA
+10100,1689.03,01 June 2003,Vintage Cars,NA
+10149,1013.48,09 December 2003,Vintage Cars,NA
+10182,971.98,11 December 2003,Vintage Cars,NA
+10204,1295.97,12 February 2003,Vintage Cars,NA
+10149,1811.4,09 December 2003,Vintage Cars,NA
+10206,3213.87,12 May 2003,Vintage Cars,NA
+10228,3406.59,03 October 2004,Vintage Cars,NA
+10290,5171.4,09 July 2004,Vintage Cars,NA
+10324,6267.69,11 May 2004,Vintage Cars,NA
+10235,2642.82,04 February 2004,Vintage Cars,NA
+10250,3061,05 November 2004,Vintage Cars,NA
+10353,1780.4,12 April 2004,Vintage Cars,NA
+10388,3918.95,03 March 2005,Vintage Cars,NA
+10401,4819.26,04 March 2005,Vintage Cars,NA
+10143,1246.44,08 October 2003,Vintage Cars,NA
+10199,1113.6,12 January 2003,Vintage Cars,NA
+10235,1449.35,04 February 2004,Vintage Cars,NA
+10250,1869.48,05 November 2004,Vintage Cars,NA
+10353,3288.4,12 April 2004,Vintage Cars,NA
+10388,3211.38,03 March 2005,Vintage Cars,NA
+10401,1979.6,04 March 2005,Vintage Cars,NA
+10121,2765.9,05 July 2003,Motorcycles,EMEA
+10134,3884.34,07 January 2003,Motorcycles,EMEA
+10180,2497.77,11 November 2003,Motorcycles,EMEA
+10375,733.11,02 March 2005,Motorcycles,EMEA
+10403,2434.56,04 August 2005,Motorcycles,EMEA
+10134,3307.77,07 January 2003,Motorcycles,EMEA
+10180,4695.6,11 November 2003,Motorcycles,EMEA
+10402,5833.8,04 July 2005,Motorcycles,EMEA
+10134,7023.98,07 January 2003,Motorcycles,EMEA
+10180,8892.9,11 November 2003,Motorcycles,EMEA
+10403,11886.6,04 August 2005,Motorcycles,EMEA
+10216,5759.42,02 February 2004,Trucks and Buses,EMEA
+10291,6387.8,09 August 2004,Trucks and Buses,EMEA
+10304,6396,10 November 2004,Trucks and Buses,EMEA
+10121,8284,05 July 2003,Motorcycles,EMEA
+10134,2711.2,07 January 2003,Motorcycles,EMEA
+10180,6747.6,11 November 2003,Motorcycles,EMEA
+10375,3867.08,02 March 2005,Motorcycles,EMEA
+10403,8648.64,04 August 2005,Motorcycles,EMEA
+10141,2140.11,08 January 2003,Trucks and Buses,EMEA
+10175,3543.28,11 June 2003,Trucks and Buses,EMEA
+10246,5069.66,05 May 2004,Trucks and Buses,EMEA
+10358,2694.72,12 October 2004,Trucks and Buses,EMEA
+10412,5951.34,05 March 2005,Trucks and Buses,EMEA
+10291,4687.94,09 August 2004,Trucks and Buses,EMEA
+10304,4508,10 November 2004,Trucks and Buses,EMEA
+10155,6531.44,10 June 2003,Planes,EMEA
+10178,6490.68,11 August 2003,Planes,EMEA
+10316,3704.13,11 January 2004,Planes,EMEA
+10327,2804.75,11 October 2004,Planes,EMEA
+10351,3881.28,12 March 2004,Planes,EMEA
+10386,1364.25,03 January 2005,Planes,EMEA
+10416,4352.16,05 October 2005,Planes,EMEA
+10114,4164.42,04 January 2003,Trucks and Buses,EMEA
+10141,6287.66,08 January 2003,Trucks and Buses,EMEA
+10175,5891.04,11 June 2003,Trucks and Buses,EMEA
+10246,2159.96,05 May 2004,Trucks and Buses,EMEA
+10358,728.4,12 October 2004,Trucks and Buses,EMEA
+10412,5498.08,05 March 2005,Trucks and Buses,EMEA
+10114,3090.15,04 January 2003,Trucks and Buses,EMEA
+10175,2840.48,11 June 2003,Trucks and Buses,EMEA
+10246,1859.7,05 May 2004,Trucks and Buses,EMEA
+10291,1500.98,09 August 2004,Trucks and Buses,EMEA
+10412,2913.53,05 March 2005,Trucks and Buses,EMEA
+10327,4781.7,11 October 2004,Planes,EMEA
+10386,1570.17,03 January 2005,Planes,EMEA
+10416,1482.6,05 October 2005,Planes,EMEA
+10134,1853.4,07 January 2003,Motorcycles,EMEA
+10180,1605,11 November 2003,Motorcycles,EMEA
+10389,6981,03 March 2005,Motorcycles,EMEA
+10402,3064.6,04 July 2005,Motorcycles,EMEA
+10155,3482.16,10 June 2003,Ships,EMEA
+10178,3350.52,11 August 2003,Ships,EMEA
+10316,1987.02,11 January 2004,Ships,EMEA
+10327,1146.5,11 October 2004,Ships,EMEA
+10350,2793.71,12 February 2004,Ships,EMEA
+10386,3441.37,03 January 2005,Ships,EMEA
+10105,4330.1,02 November 2003,Trains,EMEA
+10128,4837.18,06 June 2003,Trains,EMEA
+10177,3070.52,11 July 2003,Trains,EMEA
+10208,5614.56,01 February 2004,Trains,EMEA
+10293,2418.24,09 September 2004,Trains,EMEA
+10326,3807.68,11 September 2004,Trains,EMEA
+10350,3814.64,12 February 2004,Trains,EMEA
+10122,1740.9,05 August 2003,Motorcycles,EMEA
+10180,1057.56,11 November 2003,Motorcycles,EMEA
+10355,1657.57,12 July 2004,Motorcycles,EMEA
+10363,2851.84,01 June 2005,Motorcycles,EMEA
+10378,4609.64,02 October 2005,Motorcycles,EMEA
+10403,1879.92,04 August 2005,Motorcycles,EMEA
+10114,4815.45,04 January 2003,Trucks and Buses,EMEA
+10175,5121.59,11 June 2003,Trucks and Buses,EMEA
+10291,5288.64,09 August 2004,Trucks and Buses,EMEA
+10323,6203.06,11 May 2004,Trucks and Buses,EMEA
+10134,3273.9,07 January 2003,Motorcycles,EMEA
+10180,5355.36,11 November 2003,Motorcycles,EMEA
+10389,4597.65,03 March 2005,Motorcycles,EMEA
+10403,5287.7,04 August 2005,Motorcycles,EMEA
+10316,2872.25,11 January 2004,Planes,EMEA
+10328,4114.38,11 December 2004,Planes,EMEA
+10386,1376.43,03 January 2005,Planes,EMEA
+10416,4165.61,05 October 2005,Planes,EMEA
+10134,3570.29,07 January 2003,Motorcycles,EMEA
+10158,1474.66,10 October 2003,Motorcycles,EMEA
+10180,1919.4,11 November 2003,Motorcycles,EMEA
+10363,3595.62,01 June 2005,Motorcycles,EMEA
+10375,2443.29,02 March 2005,Motorcycles,EMEA
+10389,3988.6,03 March 2005,Motorcycles,EMEA
+10402,5168.4,04 July 2005,Motorcycles,EMEA
+10416,2803.2,05 October 2005,Motorcycles,EMEA
+10105,6341.21,02 November 2003,Ships,EMEA
+10129,6027.75,06 December 2003,Ships,EMEA
+10177,6083,11 July 2003,Ships,EMEA
+10208,4301.15,01 February 2004,Ships,EMEA
+10293,2941.89,09 September 2004,Ships,EMEA
+10326,4333.29,11 September 2004,Ships,EMEA
+10350,1711.22,12 February 2004,Ships,EMEA
+10114,2925.09,04 January 2003,Trucks and Buses,EMEA
+10175,2969.96,11 June 2003,Trucks and Buses,EMEA
+10246,3520.6,05 May 2004,Trucks and Buses,EMEA
+10291,5398.08,09 August 2004,Trucks and Buses,EMEA
+10348,5981.42,11 January 2004,Trucks and Buses,EMEA
+10358,5684.65,12 October 2004,Trucks and Buses,EMEA
+10412,8498,05 March 2005,Trucks and Buses,EMEA
+10121,2460.16,05 July 2003,Motorcycles,EMEA
+10180,2521.05,11 November 2003,Motorcycles,EMEA
+10355,2896.65,12 July 2004,Motorcycles,EMEA
+10363,2632.89,01 June 2005,Motorcycles,EMEA
+10375,2046,02 March 2005,Motorcycles,EMEA
+10403,2150.55,04 August 2005,Motorcycles,EMEA
+10155,1670.26,10 June 2003,Planes,EMEA
+10178,2748.56,11 August 2003,Planes,EMEA
+10316,2166.14,11 January 2004,Planes,EMEA
+10328,2828.16,11 December 2004,Planes,EMEA
+10351,1867,12 March 2004,Planes,EMEA
+10386,2182.44,03 January 2005,Planes,EMEA
+10155,3392.84,10 June 2003,Planes,EMEA
+10178,2169.9,11 August 2003,Planes,EMEA
+10316,2333.7,11 January 2004,Planes,EMEA
+10328,2675.05,11 December 2004,Planes,EMEA
+10351,2018.58,12 March 2004,Planes,EMEA
+10386,3006.12,03 January 2005,Planes,EMEA
+10416,1351.08,05 October 2005,Planes,EMEA
+10328,2616.98,11 December 2004,Planes,EMEA
+10375,10039.6,02 March 2005,Planes,EMEA
+10386,3167,03 January 2005,Planes,EMEA
+10416,3581.76,05 October 2005,Planes,EMEA
+10114,3667.52,04 January 2003,Trucks and Buses,EMEA
+10175,2436.72,11 June 2003,Trucks and Buses,EMEA
+10291,2178.54,09 August 2004,Trucks and Buses,EMEA
+10348,6386.94,11 January 2004,Trucks and Buses,EMEA
+10358,4428,12 October 2004,Trucks and Buses,EMEA
+10363,6576.5,01 June 2005,Motorcycles,EMEA
+10375,6353.27,02 March 2005,Motorcycles,EMEA
+10416,4764.6,05 October 2005,Motorcycles,EMEA
+10122,1384.46,05 August 2003,Motorcycles,EMEA
+10180,1545.64,11 November 2003,Motorcycles,EMEA
+10355,1513.54,12 July 2004,Motorcycles,EMEA
+10364,2317.44,01 June 2005,Motorcycles,EMEA
+10378,3298.4,02 October 2005,Motorcycles,EMEA
+10403,1206.9,04 August 2005,Motorcycles,EMEA
+10114,1560.44,04 January 2003,Trucks and Buses,EMEA
+10141,1103.76,08 January 2003,Trucks and Buses,EMEA
+10175,3165.5,11 June 2003,Trucks and Buses,EMEA
+10246,1704.5,05 May 2004,Trucks and Buses,EMEA
+10325,8844.12,11 May 2004,Trucks and Buses,EMEA
+10412,925.3,05 March 2005,Trucks and Buses,EMEA
+10116,1711.26,04 November 2003,Trains,EMEA
+10176,1408,11 June 2003,Trains,EMEA
+10220,1056.4,02 December 2004,Trains,EMEA
+10247,1988.4,05 May 2004,Trains,EMEA
+10325,5377.4,11 May 2004,Trains,EMEA
+10350,4406.4,12 February 2004,Trains,EMEA
+10175,2174.42,11 June 2003,Trucks and Buses,EMEA
+10291,2296,09 August 2004,Trucks and Buses,EMEA
+10304,2629.44,10 November 2004,Trucks and Buses,EMEA
+10348,3139.99,11 January 2004,Trucks and Buses,EMEA
+10358,5669.64,12 October 2004,Trucks and Buses,EMEA
+10121,2168.5,05 July 2003,Motorcycles,EMEA
+10180,2514.6,11 November 2003,Motorcycles,EMEA
+10355,4326.8,12 July 2004,Motorcycles,EMEA
+10375,4701.88,02 March 2005,Motorcycles,EMEA
+10403,5189.4,04 August 2005,Motorcycles,EMEA
+10141,5500.44,08 January 2003,Trucks and Buses,EMEA
+10176,3114.89,11 June 2003,Trucks and Buses,EMEA
+10220,3983.05,02 December 2004,Trucks and Buses,EMEA
+10246,2928.42,05 May 2004,Trucks and Buses,EMEA
+10325,5190.42,11 May 2004,Trucks and Buses,EMEA
+10350,2213.4,12 February 2004,Trucks and Buses,EMEA
+10412,3460.86,05 March 2005,Trucks and Buses,EMEA
+10176,2448.72,11 June 2003,Trains,EMEA
+10208,1968.3,01 February 2004,Trains,EMEA
+10220,2056.2,02 December 2004,Trains,EMEA
+10247,3128.65,05 May 2004,Trains,EMEA
+10325,5932.96,11 May 2004,Trains,EMEA
+10350,6490.88,12 February 2004,Trains,EMEA
+10121,3293.4,05 July 2003,Motorcycles,EMEA
+10180,1964.76,11 November 2003,Motorcycles,EMEA
+10356,3937.7,12 September 2004,Motorcycles,EMEA
+10375,5406.66,02 March 2005,Motorcycles,EMEA
+10403,2118.54,04 August 2005,Motorcycles,EMEA
+10105,2897.47,02 November 2003,Ships,EMEA
+10129,1860,06 December 2003,Ships,EMEA
+10177,1824,11 July 2003,Ships,EMEA
+10208,2837.46,01 February 2004,Ships,EMEA
+10326,2340,11 September 2004,Ships,EMEA
+10350,3526.82,12 February 2004,Ships,EMEA
+10156,4954.08,10 August 2003,Planes,EMEA
+10316,2795.14,11 January 2004,Planes,EMEA
+10328,2762.1,11 December 2004,Planes,EMEA
+10375,3029.19,02 March 2005,Planes,EMEA
+10416,2100.82,05 October 2005,Planes,EMEA
+10105,2034.35,02 November 2003,Ships,EMEA
+10128,3104,06 June 2003,Ships,EMEA
+10177,2738.54,11 July 2003,Ships,EMEA
+10208,3222,01 February 2004,Ships,EMEA
+10293,2084.81,09 September 2004,Ships,EMEA
+10327,3469.2,11 October 2004,Ships,EMEA
+10350,2924.32,12 February 2004,Ships,EMEA
+10155,2925.76,10 June 2003,Ships,EMEA
+10178,3293.24,11 August 2003,Ships,EMEA
+10316,4195.8,11 January 2004,Ships,EMEA
+10328,4156.58,11 December 2004,Ships,EMEA
+10386,2487.04,03 January 2005,Ships,EMEA
+10155,2353.4,10 June 2003,Planes,EMEA
+10178,1930.5,11 August 2003,Planes,EMEA
+10316,2706.41,11 January 2004,Planes,EMEA
+10328,4021.53,11 December 2004,Planes,EMEA
+10375,3856.71,02 March 2005,Planes,EMEA
+10386,3102.08,03 January 2005,Planes,EMEA
+10416,2457.18,05 October 2005,Planes,EMEA
+10105,2038.87,02 November 2003,Ships,EMEA
+10129,3838.05,06 December 2003,Ships,EMEA
+10177,2451.84,11 July 2003,Ships,EMEA
+10208,3424.7,01 February 2004,Ships,EMEA
+10316,3573.6,11 January 2004,Ships,EMEA
+10327,2022.51,11 October 2004,Ships,EMEA
+10350,2185.15,12 February 2004,Ships,EMEA
+10386,5017.57,03 January 2005,Ships,EMEA
+10328,4072.2,11 December 2004,Planes,EMEA
+10375,1668.25,02 March 2005,Planes,EMEA
+10416,5642.83,05 October 2005,Planes,EMEA
+10155,3715.2,10 June 2003,Planes,EMEA
+10316,3609.6,11 January 2004,Planes,EMEA
+10328,2112,11 December 2004,Planes,EMEA
+10375,5208.72,02 March 2005,Planes,EMEA
+10386,3018.88,03 January 2005,Planes,EMEA
+10416,2620.8,05 October 2005,Planes,EMEA
+10105,3164.46,02 November 2003,Ships,EMEA
+10129,3828.3,06 December 2003,Ships,EMEA
+10177,4055.04,11 July 2003,Ships,EMEA
+10208,4447.4,01 February 2004,Ships,EMEA
+10327,3440,11 October 2004,Ships,EMEA
+10350,2397.54,12 February 2004,Ships,EMEA
+10386,4143.6,03 January 2005,Ships,EMEA
+10105,2556.18,02 November 2003,Ships,EMEA
+10129,2562.3,06 December 2003,Ships,EMEA
+10177,2526.48,11 July 2003,Ships,EMEA
+10208,2818.53,01 February 2004,Ships,EMEA
+10327,3204.57,11 October 2004,Ships,EMEA
+10350,2854.75,12 February 2004,Ships,EMEA
+10386,2864.4,03 January 2005,Ships,EMEA
+10155,3778.28,10 June 2003,Planes,EMEA
+10178,3431.25,11 August 2003,Planes,EMEA
+10316,2736.36,11 January 2004,Planes,EMEA
+10328,3348.93,11 December 2004,Planes,EMEA
+10386,3801.6,03 January 2005,Planes,EMEA
+10416,2674.17,05 October 2005,Planes,EMEA
+10155,1671.44,10 June 2003,Planes,EMEA
+10178,2301.75,11 August 2003,Planes,EMEA
+10316,1485.8,11 January 2004,Planes,EMEA
+10386,4357.5,03 January 2005,Planes,EMEA
+10105,1419.5,02 November 2003,Ships,EMEA
+10129,2079.04,06 December 2003,Ships,EMEA
+10177,2009.2,11 July 2003,Ships,EMEA
+10208,2682.96,01 February 2004,Ships,EMEA
+10293,1921.92,09 September 2004,Ships,EMEA
+10327,3209.38,11 October 2004,Ships,EMEA
+10350,2244.4,12 February 2004,Ships,EMEA
+10386,5417.57,03 January 2005,Ships,EMEA
+10173,5036.16,11 May 2003,Vintage Cars,EMEA
+10205,3735.72,12 March 2003,Vintage Cars,EMEA
+10227,2953.75,03 February 2004,Vintage Cars,EMEA
+10256,3248.7,06 August 2004,Vintage Cars,EMEA
+10289,4567.98,09 March 2004,Vintage Cars,EMEA
+10304,3535.35,10 November 2004,Vintage Cars,EMEA
+10356,2509,12 September 2004,Vintage Cars,EMEA
+10173,2122.08,11 May 2003,Vintage Cars,EMEA
+10205,3053.28,12 March 2003,Vintage Cars,EMEA
+10227,1504.12,03 February 2004,Vintage Cars,EMEA
+10256,1500.75,06 August 2004,Vintage Cars,EMEA
+10289,1345.68,09 March 2004,Vintage Cars,EMEA
+10304,1795.24,10 November 2004,Vintage Cars,EMEA
+10356,1593.02,12 September 2004,Vintage Cars,EMEA
+10173,3508.8,11 May 2003,Vintage Cars,EMEA
+10227,3712.8,03 February 2004,Vintage Cars,EMEA
+10302,7310,10 June 2003,Vintage Cars,EMEA
+10379,5399.55,02 October 2005,Vintage Cars,EMEA
+10173,1495.26,11 May 2003,Vintage Cars,EMEA
+10227,1423.8,03 February 2004,Vintage Cars,EMEA
+10303,2255.84,10 June 2004,Vintage Cars,EMEA
+10379,1331.1,02 October 2005,Vintage Cars,EMEA
+10101,3782,01 September 2003,Vintage Cars,EMEA
+10173,4492.83,11 May 2003,Vintage Cars,EMEA
+10227,7017.76,03 February 2004,Vintage Cars,EMEA
+10304,2440.8,10 November 2004,Vintage Cars,EMEA
+10356,3630.22,12 September 2004,Vintage Cars,EMEA
+10101,3773.38,01 September 2003,Vintage Cars,EMEA
+10173,3452.68,11 May 2003,Vintage Cars,EMEA
+10205,7492.4,12 March 2003,Vintage Cars,EMEA
+10227,5579.02,03 February 2004,Vintage Cars,EMEA
+10255,3726,06 April 2004,Vintage Cars,EMEA
+10289,8272.34,09 March 2004,Vintage Cars,EMEA
+10304,3577.6,10 November 2004,Vintage Cars,EMEA
+10356,4462.2,12 September 2004,Vintage Cars,EMEA
+10291,5713.79,09 August 2004,Vintage Cars,EMEA
+10304,4613.8,10 November 2004,Vintage Cars,EMEA
+10173,1504.16,11 May 2003,Vintage Cars,EMEA
+10291,1871.83,09 August 2004,Vintage Cars,EMEA
+10304,1559.04,10 November 2004,Vintage Cars,EMEA
+10392,2218.52,03 October 2005,Vintage Cars,EMEA
+10173,2759.31,11 May 2003,Vintage Cars,EMEA
+10291,2866.26,09 August 2004,Vintage Cars,EMEA
+10304,2232.62,10 November 2004,Vintage Cars,EMEA
+10392,2520.68,03 October 2005,Vintage Cars,EMEA
+10105,3065.04,02 November 2003,Vintage Cars,EMEA
+10128,5544.02,06 June 2003,Vintage Cars,EMEA
+10177,3675.63,11 July 2003,Vintage Cars,EMEA
+10208,2622.48,01 February 2004,Vintage Cars,EMEA
+10293,2819.28,09 September 2004,Vintage Cars,EMEA
+10325,1658.88,11 May 2004,Vintage Cars,EMEA
+10350,5191.12,12 February 2004,Vintage Cars,EMEA
+10173,2761.96,11 May 2003,Vintage Cars,EMEA
+10227,3666.96,03 February 2004,Vintage Cars,EMEA
+10304,3958.46,10 November 2004,Vintage Cars,EMEA
+10323,3011.91,11 May 2004,Vintage Cars,EMEA
+10392,4035.96,03 October 2005,Vintage Cars,EMEA
+10155,3622.97,10 June 2003,Vintage Cars,EMEA
+10178,5386.56,11 August 2003,Vintage Cars,EMEA
+10316,4080.07,11 January 2004,Vintage Cars,EMEA
+10328,3815.48,11 December 2004,Vintage Cars,EMEA
+10351,3374.6,12 March 2004,Vintage Cars,EMEA
+10386,1266.1,03 January 2005,Vintage Cars,EMEA
+10173,1584.66,11 May 2003,Vintage Cars,EMEA
+10227,3566.94,03 February 2004,Vintage Cars,EMEA
+10302,3392.26,10 June 2003,Vintage Cars,EMEA
+10105,3382.5,02 November 2003,Vintage Cars,EMEA
+10128,3962.88,06 June 2003,Vintage Cars,EMEA
+10177,2611,11 July 2003,Vintage Cars,EMEA
+10208,3949.65,01 February 2004,Vintage Cars,EMEA
+10293,4946.06,09 September 2004,Vintage Cars,EMEA
+10326,4300.5,11 September 2004,Vintage Cars,EMEA
+10350,3023.1,12 February 2004,Vintage Cars,EMEA
+10291,1502.78,09 August 2004,Vintage Cars,EMEA
+10304,1676.2,10 November 2004,Vintage Cars,EMEA
+10348,7110.8,11 January 2004,Vintage Cars,EMEA
+10358,5302.8,12 October 2004,Vintage Cars,EMEA
+10101,1404,01 September 2003,Vintage Cars,EMEA
+10173,977.43,11 May 2003,Vintage Cars,EMEA
+10205,1189.44,12 March 2003,Vintage Cars,EMEA
+10227,1226.82,03 February 2004,Vintage Cars,EMEA
+10304,694.6,10 November 2004,Vintage Cars,EMEA
+10356,9720,12 September 2004,Vintage Cars,EMEA
+10101,2472.96,01 September 2003,Vintage Cars,EMEA
+10173,1112.94,11 May 2003,Vintage Cars,EMEA
+10205,913.92,12 March 2003,Vintage Cars,EMEA
+10227,1161.12,03 February 2004,Vintage Cars,EMEA
+10255,1690.9,06 April 2004,Vintage Cars,EMEA
+10289,2177.1,09 March 2004,Vintage Cars,EMEA
+10304,1734.48,10 November 2004,Vintage Cars,EMEA
+10356,828.36,12 September 2004,Vintage Cars,EMEA
+10105,3193.52,02 November 2003,Vintage Cars,EMEA
+10129,3883.11,06 December 2003,Vintage Cars,EMEA
+10177,3266.1,11 July 2003,Vintage Cars,EMEA
+10208,1788,01 February 2004,Vintage Cars,EMEA
+10326,3519.85,11 September 2004,Vintage Cars,EMEA
+10350,3021,12 February 2004,Vintage Cars,EMEA
+10155,1900.26,10 June 2003,Vintage Cars,EMEA
+10178,1988.28,11 August 2003,Vintage Cars,EMEA
+10316,3615.71,11 January 2004,Vintage Cars,EMEA
+10328,1459.6,11 December 2004,Vintage Cars,EMEA
+10351,2598.44,12 March 2004,Vintage Cars,EMEA
+10386,2231.6,03 January 2005,Vintage Cars,EMEA
+10105,3983.5,02 November 2003,Vintage Cars,EMEA
+10129,3899.5,06 December 2003,Vintage Cars,EMEA
+10155,2513.41,10 June 2003,Vintage Cars,EMEA
+10178,1514.52,11 August 2003,Vintage Cars,EMEA
+10316,2306.25,11 January 2004,Vintage Cars,EMEA
+10326,1845,11 September 2004,Vintage Cars,EMEA
+10350,1508.5,12 February 2004,Vintage Cars,EMEA
+10173,1163.05,11 May 2003,Vintage Cars,EMEA
+10227,1185.3,03 February 2004,Vintage Cars,EMEA
+10303,965.04,10 June 2004,Vintage Cars,EMEA
+10173,2571.14,11 May 2003,Vintage Cars,EMEA
+10304,3342.57,10 November 2004,Vintage Cars,EMEA
+10348,1962.09,11 January 2004,Vintage Cars,EMEA
+10358,6847,12 October 2004,Vintage Cars,EMEA
+10316,1419.84,11 January 2004,Vintage Cars,EMEA
+10328,1948.08,11 December 2004,Vintage Cars,EMEA
+10375,3619.44,02 March 2005,Vintage Cars,EMEA
+10416,1591.72,05 October 2005,Vintage Cars,EMEA
+10156,820.4,10 August 2003,Vintage Cars,EMEA
+10316,1617.38,11 January 2004,Vintage Cars,EMEA
+10328,1765.62,11 December 2004,Vintage Cars,EMEA
+10375,3224.2,02 March 2005,Vintage Cars,EMEA
+10416,1921.41,05 October 2005,Vintage Cars,EMEA
