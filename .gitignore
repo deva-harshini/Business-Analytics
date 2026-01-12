@@ -1,0 +1,25 @@
+# Power BI autosave / temp files
+*.pbix.autosave
+*.pbix.tmp
+*.pbi.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Excel temporary files
+~$*.xlsx
+~$*.csv
+
+# Logs
+*.log
+
+# Python / Jupyter (if added later)
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment / secrets (if ever added)
+.env
